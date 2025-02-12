@@ -12,8 +12,8 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 - 📝 Kendi projelerimi paylaşarak geri bildirim almak istiyorum.
 
 
-# 📊 İstatistiklerim
 
+# 📊 İstatistiklerim
 
 <div align="center">
 
