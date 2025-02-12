@@ -1,6 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH_hyFPdfjYQQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739121893795?e=1744848000&v=beta&t=PR08v2YU--FzogZ7-zXdtaFFHzVAeJ2ulNUX5IVXTM8)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=PROFİLİME+HOŞGELDİNİZ!)
+
 
 
 # <span style="color:blue">Merhaba, Ben Mehmet ali KIZOĞLU.</span> 👋
