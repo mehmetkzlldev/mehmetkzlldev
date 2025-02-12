@@ -1,5 +1,12 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH_hyFPdfjYQQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739121893795?e=1744848000&v=beta&t=PR08v2YU--FzogZ7-zXdtaFFHzVAeJ2ulNUX5IVXTM8)
 
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="40" font-size="30" fill="black">
+    <animate attributeName="x" from="10" to="200" dur="2s" repeatCount="indefinite" />
+    Merhaba GitHub!
+  </text>
+</svg>
+
 # <span style="color:blue">Merhaba, Ben Mehmet ali KIZOĞLU.</span> 👋
 
 Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olarak geliştirmeye çalışıyorum. Teknolojiyi ve problem çözmeyi seviyorum. Burada, öğrendiğim yeni konuları ve projelerimi paylaşarak bu yolculukta ilerlemeyi umuyorum.
