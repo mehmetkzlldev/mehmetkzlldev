@@ -12,7 +12,9 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 
 ## İstatistiklerim 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
