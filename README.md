@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH_hyFPdfjYQQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739121893795?e=1744848000&v=beta&t=PR08v2YU--FzogZ7-zXdtaFFHzVAeJ2ulNUX5IVXTM8)
 
-# Merhaba, Ben Mehmet ali KIZOĞLU! 👋
+# <span style="color:blue">Merhaba, Ben Mehmet ali KIZOĞLU.</span> 👋
 
 Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olarak geliştirmeye çalışıyorum. Teknolojiyi ve problem çözmeyi seviyorum. Burada, öğrendiğim yeni konuları ve projelerimi paylaşarak bu yolculukta ilerlemeyi umuyorum.
 
