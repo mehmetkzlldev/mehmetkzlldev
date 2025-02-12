@@ -15,9 +15,9 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 
 ## İstatistiklerim 📊
 
-[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?mehmetkzlldev&theme=dark)](https://git.io/streak-stats](https://github.com/mehmetkzlldev?tab=overview&from=2025-02-01&to=2025-02-12))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mehmetkzlldev=github_mehmetkzlldev&layout=compact)](https://github.com/mehmetkzlldev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hedeflerim 🎯
 
