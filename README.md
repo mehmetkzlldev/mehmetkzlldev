@@ -34,7 +34,6 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="400"/>
 </p>
-
 ---
 
 ## Başarılarım ve Kupalar 🏆
