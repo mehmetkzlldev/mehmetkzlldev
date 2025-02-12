@@ -11,15 +11,6 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 - 📚 Sürekli olarak yeni teknolojileri öğrenmek ve projelerimi geliştirmek için kaynaklar araştırıyorum.
 - 📝 Kendi projelerimi paylaşarak geri bildirim almak istiyorum.
 
----
-
-# Merhaba, Ben [Adınız]! 👋
-
-Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olarak geliştirmeye çalışıyorum. Teknolojiyi ve problem çözmeyi seviyorum. Burada, öğrendiğim yeni konuları ve projelerimi paylaşarak bu yolculukta ilerlemeyi umuyorum.
-
----
-
-## İstatistiklerim 📊
 
 ## İstatistiklerim 📊
 
@@ -45,11 +36,7 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
   <img src="https://github-profile-trophy.vercel.app/?username=mehmetkzlldev&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 ---
 
-## Başarılarım ve Kupalar 🏆
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetkzlldev&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
