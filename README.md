@@ -15,15 +15,21 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 
 # 📊 İstatistiklerim
 
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=black-ice&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" width="400" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetkzlldev&theme=github_dark" alt="Productivity Time" width="400" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=black-ice&icon_color=ff0000&text_color=ff0000" alt="GitHub Stats" width="400" />
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=tokyonight_duo&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" width="400" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetkzlldev&theme=dracula" alt="Productivity Time" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark&icon_color=ff0000&text_color=ff0000&title_color=ff0000" alt="GitHub Stats" width="500" />
+    </td>
+  </tr>
+</table>
 
 
 
