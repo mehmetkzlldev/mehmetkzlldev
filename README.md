@@ -6,15 +6,50 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 
 ## Hakkımda 🚀
 
-- 🌱 **Şu anda yazılım geliştirme ve bilgisayar bilimleri üzerine çalışıyorum.**
-- 💻 **Python, C# dalları ile ilgileniyorum**
-- 📝 **Kendi projelerimi paylaşarak geri bildirim almak istiyorum.**
+- 🌱 Şu anda yazılım geliştirme ve bilgisayar bilimleri üzerine çalışıyorum.
+- 💻 Python, C# Dalları ile ilgileniyorum
+- 📚 Sürekli olarak yeni teknolojileri öğrenmek ve projelerimi geliştirmek için kaynaklar araştırıyorum.
+- 📝 Kendi projelerimi paylaşarak geri bildirim almak istiyorum.
+
+---
 
 ## İstatistiklerim 📊
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=dark&background=000000" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=mehmetkzlldev&theme=monokai" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetkzlldev&theme=monokai" alt="Productivity Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## Başarılarım ve Kupalar 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehmetkzlldev&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Hedeflerim 🎯
+
+- 🎯 **Veritabanı yönetim sistemlerini** daha iyi öğrenmek.
+- 🎯 **Algoritmalar ve veri yapıları** konusunda derinlemesine bilgi edinmek.
+- 🎯 **Web geliştirme** ve **mobil uygulama geliştirme** alanlarında projeler yapmak.
 
 
 
@@ -22,13 +57,7 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 ## İletişim 📬
 
 - 📧 E-posta: mehmetalikzll35@gmail.com
-- 🌐 Web sitesi:
-- 📱 LinkedIn: 
-## İlgi Alanlarım ⚽
-
-- 🎮 Video oyunları
-- 📚 Kitap okuma
-- 🍳 Yemek yapma
-
+- 🌐 Web sitesi: m)
+- 📱 LinkedIn:
 
 
