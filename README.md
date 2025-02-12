@@ -21,19 +21,22 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 
 ## İstatistiklerim 📊
 
+## İstatistiklerim 📊
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=dark&background=000000" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=mehmetkzlldev&theme=monokai" alt="Most Commit Language" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetkzlldev&theme=monokai" alt="Productivity Time" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=mehmetkzlldev&theme=monokai" alt="Most Commit Language" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetkzlldev&theme=monokai" alt="Productivity Time" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="400" />
 </p>
+
 ---
 
 ## Başarılarım ve Kupalar 🏆
