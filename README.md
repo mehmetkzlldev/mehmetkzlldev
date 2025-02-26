@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Şu+anda+%C5%9Fuyorum+ve+bilgisayar+bilimleri+%C3%BCzerine+%C3%A7al%C4%B1%C5%9F%C4%B1yorum.%0A%0A%F0%9F%92%BB+Python,+C#+Dalları+ile+ilgileniyorum.%0A%0A%F0%9F%93%9A+S%C3%BCrekli+olarak+yeni+teknolojileri+%C3%B6%C4%9Frenmek+ve+projelerimi+geli%C5%9Ftirmek+i%C3%A7in+kaynaklar+ara%C5%9Ft%C4%B1r%C4%B1yorum.%0A%0A%F0%9F%93%9D+Kendi+projelerimi+payla%C5%9Farak+geri+bildirim+almak+istiyorum.)  )
+![Typing SVG]![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Şu+anda+%C5%9Fuyorum+ve+bilgisayar+bilimleri+%FCzerine+%C3%A7al%C4%B1%C5%9F%C4%B1yorum.%0A%F0%9F%92%BB+Python,+C%23+Dalları+ile+ilgileniyorum.%0A%F0%9F%93%9A+S%C3%BCrekli+olarak+yeni+teknolojileri+%F6%9F%80renmek+ve+projelerimi+geli%C5%9Ftirmek+i%C3%A7in+kaynaklar+ara%C5%9Ft%C4%B1r%C4%B1yorum.%0A%F0%9F%93%9D+Kendi+projelerimi+payla%C5%9Farak+geri+bildirim+almak+istiyorum.))  )
 
 
 
