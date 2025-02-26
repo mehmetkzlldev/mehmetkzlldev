@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Su+anda+syorum+ve+bilgisayar+bilimleri+uzerine+calisiyorum.%0A%F0%9F%92%BB+Python,+C%23+Dallari+ile+ilgileniyorum.%0A%F0%9F%93%9A+Surekli+olarak+yeni+teknolojileri+ogrenmek+ve+projelerimi+gelistirmek+icin+kaynaklar+arastiriyorum.%0A%F0%9F%93%9D+Kendi+projelerimi+paylasarak+geri+bildirim+almak+istiyorum.)
+
 
 
 
