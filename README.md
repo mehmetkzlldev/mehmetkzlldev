@@ -8,15 +8,6 @@
 
 Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olarak geliştirmeye çalışıyorum. Teknolojiyi ve problem çözmeyi seviyorum. Burada, öğrendiğim yeni konuları ve projelerimi paylaşarak bu yolculukta ilerlemeyi umuyorum.
 
-### Merhaba, Ben Mehmet Ali Kızoğlu. 👋  
-Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olarak geliştirmeye çalışıyorum. Teknolojiyi ve problem çözmeyi seviyorum. Burada, öğrendiğim yeni konuları ve projelerimi paylaşarak bu yolculukta ilerlemeyi umuyorum.  
-
-### 🚀 Hakkımda  
-- 🌱 Şu anda yazılım geliştirme ve bilgisayar bilimleri üzerine çalışıyorum.  
-- 💻 Python, C# Dalları ile ilgileniyorum.  
-- 📚 Sürekli olarak yeni teknolojileri öğrenmek ve projelerimi geliştirmek için kaynaklar araştırıyorum.  
-- 📝 Kendi projelerimi paylaşarak geri bildirim almak istiyorum.  
-
 ---
 
 ### 📊 **İstatistiklerim**
@@ -46,7 +37,11 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 </p>
 
 
-
+### 🚀 Hakkımda  
+- 🌱 Şu anda yazılım geliştirme ve bilgisayar bilimleri üzerine çalışıyorum.  
+- 💻 Python, C# Dalları ile ilgileniyorum.  
+- 📚 Sürekli olarak yeni teknolojileri öğrenmek ve projelerimi geliştirmek için kaynaklar araştırıyorum.  
+- 📝 Kendi projelerimi paylaşarak geri bildirim almak istiyorum. 
 
 ---
 
