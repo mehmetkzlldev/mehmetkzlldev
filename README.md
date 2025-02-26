@@ -10,6 +10,23 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 
 ---
 
+
+### 🚀 Hakkımda  
+- 🌱 Şu anda yazılım geliştirme ve bilgisayar bilimleri üzerine çalışıyorum.  
+- 💻 Python, C# Dalları ile ilgileniyorum.  
+- 📚 Sürekli olarak yeni teknolojileri öğrenmek ve projelerimi geliştirmek için kaynaklar araştırıyorum.  
+- 📝 Kendi projelerimi paylaşarak geri bildirim almak istiyorum. 
+
+---
+
+## Hedeflerim 🎯
+
+- 🎯 **Veritabanı yönetim sistemlerini** daha iyi öğrenmek.
+- 🎯 **Algoritmalar ve veri yapıları** konusunda derinlemesine bilgi edinmek.
+- 🎯 **Web geliştirme** ve **mobil uygulama geliştirme** alanlarında projeler yapmak.
+
+
+
 ### 📊 **İstatistiklerim**
 
 <table align="center">
@@ -35,22 +52,6 @@ Ben bir yazılım geliştirme öğrencisiyim ve bu alanda kendimi sürekli olara
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mehmetkzlldev&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-
-
-### 🚀 Hakkımda  
-- 🌱 Şu anda yazılım geliştirme ve bilgisayar bilimleri üzerine çalışıyorum.  
-- 💻 Python, C# Dalları ile ilgileniyorum.  
-- 📚 Sürekli olarak yeni teknolojileri öğrenmek ve projelerimi geliştirmek için kaynaklar araştırıyorum.  
-- 📝 Kendi projelerimi paylaşarak geri bildirim almak istiyorum. 
-
----
-
-## Hedeflerim 🎯
-
-- 🎯 **Veritabanı yönetim sistemlerini** daha iyi öğrenmek.
-- 🎯 **Algoritmalar ve veri yapıları** konusunda derinlemesine bilgi edinmek.
-- 🎯 **Web geliştirme** ve **mobil uygulama geliştirme** alanlarında projeler yapmak.
-
 
 
 
