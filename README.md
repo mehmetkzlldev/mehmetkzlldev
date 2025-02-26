@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/v2/D4E16AQH_hyFPdfjYQQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739121893795?e=1744848000&v=beta&t=PR08v2YU--FzogZ7-zXdtaFFHzVAeJ2ulNUX5IVXTM8](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwallpaper-gif&psig=AOvVaw08l7z6AfQwr55WpOIGuJr2&ust=1740646758854000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC9sb784IsDFQAAAAAdAAAAABAE))
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ŞEHİT+UZMAN+ÇAVUŞ+HARUN+ŞENÖZER!)
 
