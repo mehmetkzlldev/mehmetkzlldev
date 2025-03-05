@@ -45,6 +45,3 @@ Ben bir yazilim gelistirme ogrencisiyim ve bu alanda kendimi surekli olarak geli
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical)
 
 ---
-
-### 🎬 Hos Geldin GIF  
-![Hos Geldin](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
