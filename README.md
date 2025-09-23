@@ -41,7 +41,7 @@ Yazılım geliştirme öğrencisiyim ve bu alanda sürekli kendimi geliştirmeye
 
 **Mehmet Ali K.'s GitHub Stats:**
 - **Toplam Kazanılan Yıldız:** 1
-- **Son 1 Yılda Toplam Commit:** 56
+- **Son 1 Yılda Toplam Commit:** 57
 - **Toplam Issue:** 0
 - **Son 1 Yılda Katkıda Bulunan:** 0
 - **Rütbe:** C
