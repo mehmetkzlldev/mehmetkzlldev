@@ -1,18 +1,19 @@
-![Header](https://repository-images.githubusercontent.com/290457732/76e8d700-8d63-11ea-960a-59c47cdbd7fd)
+# 🌟 Merhaba, Ben Mehmet Ali Kızıoğlu 👋
 
-# Merhaba, Ben Mehmet Ali Kizoglu 👋
-
-Ben bir yazilim gelistirme ogrencisiyim ve bu alanda kendimi surekli olarak gelistirmeye calisiyorum. Teknolojiyi ve problem cozme yetenegini seviyorum. Burada, ogrendigim yeni konulari ve projelerimi paylasarak bu yolculukta ilerlemeyi umuyorum. 🚀
-
-## 🚀 Hakkimda
-- 🌱 Su anda yazilim gelistirme ve bilgisayar bilimleri uzerine calisiyorum.
-- 💻 Python, C# ile ilgileniyorum.
-- 📚 Surekli olarak yeni teknolojileri ogrenmek ve projelerimi gelistirmek icin kaynaklar arastiriyorum.
-- 📝 Kendi projelerimi paylasarak geri bildirim almak istiyorum.
+Yazılım geliştirme öğrencisiyim ve bu alanda sürekli kendimi geliştirmeye çalışıyorum. Teknolojiyi ve problem çözme yeteneğimi çok seviyorum. Burada öğrendiklerimi, projelerimi paylaşarak bu yolculukta ilerlemeyi umuyorum. 🚀
 
 ---
 
-### 📊 GitHub Istatistiklerim
+## 🚀 Hakkımda
+
+- 🌱 Şu anda **yazılım geliştirme** ve **bilgisayar bilimleri** üzerine yoğunlaşıyorum.
+- 💻 **Python** ve **C#** ile ilgileniyorum.
+- 📚 Sürekli olarak yeni teknolojiler öğreniyorum ve projelerimi geliştirmek için kaynaklar araştırıyorum.
+- 📝 Kendi projelerimi paylaşarak geri bildirim almayı ve bilgi birikimimi artırmayı hedefliyorum.
+
+---
+
+### 📊 GitHub İstatistiklerim
 
 <table align="center">
   <tr>
@@ -32,16 +33,41 @@ Ben bir yazilim gelistirme ogrencisiyim ve bu alanda kendimi surekli olarak geli
 
 ---
 
-### 🏆 Basarilarim ve Kupalarim
+### 🏆 Başarılarım ve Kupalarım
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mehmetkzlldev&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+**Mehmet Ali K.'s GitHub Stats:**
+- **Toplam Kazanılan Yıldız:** 1
+- **Son 1 Yılda Toplam Commit:** 56
+- **Toplam Issue:** 0
+- **Son 1 Yılda Katkıda Bulunan:** 0
+- **Rütbe:** C
+
 ---
 
-### 🔥 En Cok Kullandigim Diller
+### 🔥 En Çok Kullandığım Diller
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical)
 
 ---
+
+### 🌟 Hedeflerim
+
+- 🌱 Yazılım geliştirme ve bilgisayar bilimleri üzerine daha derinlemesine çalışmak.
+- 💻 Python ve C# ile daha karmaşık projeler geliştirmek.
+- 📚 Sürekli öğrenmeye devam etmek ve yeni teknolojileri keşfetmek.
+- 📝 Kendi projelerimi paylaşarak geri bildirim almak ve bilgi birikimimi artırmak.
+
+---
+
+### ✅ Notlar
+
+- Tüm istatistikler ve görseller otomatik olarak güncellenir.
+- GitHub profili, sürekli geliştirilmeye açık bir çalışma alanıdır.
+
+---
+
+Hazır mısın? Hadi birlikte ilerleyelim! 💻✨
