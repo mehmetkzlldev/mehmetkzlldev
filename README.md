@@ -1,73 +1,69 @@
-# 🌟 Merhaba, Ben Mehmet Ali Kızıoğlu 👋
+<!-- README.md - Mehmet Ali Kızoglu -->
+<h1 align="center">Merhaba 👋, Ben Mehmet Ali!</h1>
+<h3 align="center">Yazılım öğrencisi | Web Geliştirici Adayı | Öğrenmeye Tutkun</h3>
 
-Yazılım geliştirme öğrencisiyim ve bu alanda sürekli kendimi geliştirmeye çalışıyorum. Teknolojiyi ve problem çözme yeteneğimi çok seviyorum. Burada öğrendiklerimi, projelerimi paylaşarak bu yolculukta ilerlemeyi umuyorum. 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehmetalikizoglu&color=blueviolet&style=flat" alt="profil ziyaretçi sayısı" />
+</p>
 
 ---
 
-## 🚀 Hakkımda
+### 🌱 Şu Anda Ne Öğreniyorum?
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** PHP (Temel seviye)
+- **Araçlar:** Git, GitHub, VS Code
+- **Hedef:** Full Stack Web Geliştirici olmak
 
-- 🌱 Şu anda **yazılım geliştirme** ve **bilgisayar bilimleri** üzerine yoğunlaşıyorum.
-- 💻 **Python** ve **C#** ile ilgileniyorum.
-- 📚 Sürekli olarak yeni teknolojiler öğreniyorum ve projelerimi geliştirmek için kaynaklar araştırıyorum.
-- 📝 Kendi projelerimi paylaşarak geri bildirim almayı ve bilgi birikimimi artırmayı hedefliyorum.
+---
+
+### 💡 Projelerim ve Çalışmalarım
+- 📌 [Mini To-Do List Uygulaması](https://github.com/mehmetalikizoglu/todo-app) - JavaScript ile yapılmış basit bir görev yöneticisi.
+- 📌 [Kişisel Blog Tasarımı](https://github.com/mehmetalikizoglu/blog-design) - HTML & CSS ile responsive blog sayfası.
+- 📌 [PHP ile Basit Form İşleme](https://github.com/mehmetalikizoglu/php-form) - Kullanıcı verisi alan ve işleyen örnek.
+
+> 🚧 **Not:** Projelerim sürekli gelişiyor! Takip etmek istersen yıldız (⭐) bırakabilirsin.
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📫 İletişim
+<p align="left">
+  <a href="mailto:mehmetalikizoglu@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehmetalikizoglu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mehmetalikizoglu" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub İstatistiklerim
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkzlldev&theme=tokyonight_duo&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" width="400" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetkzlldev&theme=dracula" alt="Productivity Time" width="400" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark&icon_color=ff0000&text_color=ff0000&title_color=ff0000" alt="GitHub Stats" width="500" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Başarılarım ve Kupalarım
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetkzlldev&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetalikizoglu&show_icons=true&theme=radical&locale=tr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalikizoglu&layout=compact&theme=radical&locale=tr" />
 </p>
 
-**Mehmet Ali K.'s GitHub Stats:**
-- **Toplam Kazanılan Yıldız:** 1
-- **Son 1 Yılda Toplam Commit:** 57
-- **Toplam Issue:** 0
-- **Son 1 Yılda Katkıda Bulunan:** 0
-- **Rütbe:** C
+---
+
+### 💬 Sözüm
+> "Her satır kod, yeni bir öğrenme fırsatıdır. 🚀"
 
 ---
 
-### 🔥 En Çok Kullandığım Diller
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical)
-
----
-
-### 🌟 Hedeflerim
-
-- 🌱 Yazılım geliştirme ve bilgisayar bilimleri üzerine daha derinlemesine çalışmak.
-- 💻 Python ve C# ile daha karmaşık projeler geliştirmek.
-- 📚 Sürekli öğrenmeye devam etmek ve yeni teknolojileri keşfetmek.
-- 📝 Kendi projelerimi paylaşarak geri bildirim almak ve bilgi birikimimi artırmak.
-
----
-
-### ✅ Notlar
-
-- Tüm istatistikler ve görseller otomatik olarak güncellenir.
-- GitHub profili, sürekli geliştirilmeye açık bir çalışma alanıdır.
-
----
-
-Hazır mısın? Hadi birlikte ilerleyelim! 💻✨
+Teşekkürler ki profilimi ziyaret ettin!  
+Yeni başlayan bir yazılımcı olarak her geri bildirim ve destek benim için çok değerli. 🙏
