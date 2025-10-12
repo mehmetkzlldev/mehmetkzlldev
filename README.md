@@ -3,7 +3,7 @@
 <h3 align="center">Yazılım öğrencisi | Web Geliştirici Adayı | Öğrenmeye Tutkun</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetalikizoglu&color=blueviolet&style=flat" alt="profil ziyaretçi sayısı" />
+  <img src="https://komarev.com/ghpvc/?username=mehmetkzlldev&color=blueviolet&style=flat" alt="profil ziyaretçi sayısı" />
 </p>
 
 ---
@@ -13,15 +13,6 @@
 - **Backend:** PHP (Temel seviye)
 - **Araçlar:** Git, GitHub, VS Code
 - **Hedef:** Full Stack Web Geliştirici olmak
-
----
-
-### 💡 Projelerim ve Çalışmalarım
-- 📌 [Mini To-Do List Uygulaması](https://github.com/mehmetalikizoglu/todo-app) - JavaScript ile yapılmış basit bir görev yöneticisi.
-- 📌 [Kişisel Blog Tasarımı](https://github.com/mehmetalikizoglu/blog-design) - HTML & CSS ile responsive blog sayfası.
-- 📌 [PHP ile Basit Form İşleme](https://github.com/mehmetalikizoglu/php-form) - Kullanıcı verisi alan ve işleyen örnek.
-
-> 🚧 **Not:** Projelerim sürekli gelişiyor! Takip etmek istersen yıldız (⭐) bırakabilirsin.
 
 ---
 
@@ -39,13 +30,13 @@
 
 ### 📫 İletişim
 <p align="left">
-  <a href="mailto:mehmetalikizoglu@example.com">
+  <a href="mailto:mehmetkzlldev@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mehmetalikizoglu" target="_blank">
+  <a href="https://www.linkedin.com/in/mehmetkzlldev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/mehmetalikizoglu" target="_blank">
+  <a href="https://twitter.com/mehmetkzlldev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
   </a>
 </p>
@@ -54,8 +45,8 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetalikizoglu&show_icons=true&theme=radical&locale=tr" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalikizoglu&layout=compact&theme=radical&locale=tr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&theme=radical&locale=tr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical&locale=tr" />
 </p>
 
 ---
