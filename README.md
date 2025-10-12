@@ -48,13 +48,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetkzlldev&show_icons=true&theme=radical&locale=tr" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzlldev&layout=compact&theme=radical&locale=tr" />
 </p>
-
----
-
-### 💬 Sözüm
-> "Her satır kod, yeni bir öğrenme fırsatıdır. 🚀"
-
----
-
-Teşekkürler ki profilimi ziyaret ettin!  
-Yeni başlayan bir yazılımcı olarak her geri bildirim ve destek benim için çok değerli. 🙏
