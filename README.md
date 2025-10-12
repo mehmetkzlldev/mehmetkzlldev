@@ -9,10 +9,10 @@
 ---
 
 ### 🌱 Şu Anda Ne Öğreniyorum?
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Frontend:** HTML5, CSS3, JavaScript)
 - **Backend:** PHP (Temel seviye)
 - **Araçlar:** Git, GitHub, VS Code
-- **Hedef:** Full Stack Web Geliştirici olmak
+- **Hedef:** {}
 
 ---
 
