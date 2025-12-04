@@ -10,7 +10,7 @@
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP (temel seviye)
 - **Ne yapıyorum?**  
-  Kendi yazdığım kodları zaman zaman yapay zekayla geliştirip  
+  Yapay zekaya yazdırdıgı kodları zaman zaman düzenleyip/değiştirip
   hobi amaçlı **web, uygulama ve küçük oyun projeleri** deniyorum.
 
 ---
